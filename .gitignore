@@ -1,0 +1,6 @@
+mypasswds
+*.log
+*.env
+*.pem
+myenv
+myenvvars
